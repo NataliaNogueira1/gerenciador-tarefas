@@ -19,7 +19,7 @@ function App() {
   
     const fetchTasks = async () => {
       const response = await fetch(
-        "https://jsonplaceholder.typicode.com/todos?_limit=10"
+        "https://jsonplaceholder.typicode.com/todos?_limit=3"
       );
       const data = await response.json();
       // Adiciona descrição vazia (porque os dados da API não têm isso)
