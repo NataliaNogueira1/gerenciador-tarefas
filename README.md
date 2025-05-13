@@ -1,6 +1,9 @@
 <h1 align="center">Gerenciador de Tarefas 📄</h1>
 O gerenciador de tarefas faz uma lista com as novas tarefas digitadas pelo usuário, que podem ser marcadas e desmarcadas como concluídas, excluídas ou visualizadas em mais detalhes em outra página. Além disso, todas as alterações ficam salvas localmente na máquina e se a página for recarregada o conteúdo não se altera.
 
+### Link para acessar o projeto:
+https://gerenciador-tarefas-one-zeta.vercel.app/
+
 <h2>🎨 Layout</h2>
 
 <p align="center">
