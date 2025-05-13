@@ -26,8 +26,8 @@ function AddTask({onAddTaskSubmit}) {
             return alert("Preencha todos os campos");
           }
           onAddTaskSubmit(title,description);
-          setTitle("Digite o título da tarefa");
-          setDescription("Digite a descrição da tarefa");
+          setTitle("");
+          setDescription("");
           }} 
           className="!bg-slate-500 text-white px-4 py-2 rounded-md font-medium">Adicionar</button>
       </div>
