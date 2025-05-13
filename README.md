@@ -21,6 +21,7 @@ https://gerenciador-tarefas-one-zeta.vercel.app/
 - [Lucide React](https://lucide.dev/) v0.507.0
 - JavaScript
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Vercel](https://vercel.com/)
 
 <h2>📁 Usando o projeto localmente</h2>
 
